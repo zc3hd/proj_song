@@ -35,7 +35,7 @@
     background: url('./imgs/timg.jpg') no-repeat;
     background-size: contain;
     background-position: center center;
-    background-color: #222;
+    background-color: rgb(1, 1, 3);
     position: relative;
     >.main {
       width: 100%;
