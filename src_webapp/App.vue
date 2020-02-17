@@ -33,7 +33,7 @@
     width: 100%;
     height: 100%;
     background: url('./imgs/timg.jpg') no-repeat;
-    background-size: contain;
+    background-size: cover;
     background-position: center center;
     background-color: rgb(1, 1, 3);
     position: relative;

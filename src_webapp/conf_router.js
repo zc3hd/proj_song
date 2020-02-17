@@ -8,7 +8,7 @@ import song from './modules/song/index.vue';
 export default [
   // 管理员
   {
-    path: '/admin',
+    path: '/class',
     component: admin,
   },
   // 学生

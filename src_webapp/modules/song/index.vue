@@ -1,6 +1,6 @@
 <template>
   <div class="cpt_song">
-    <h1>{{mode?"昌哥 点歌 大转盘":"幸运 点名 找到你"}}</h1>
+    <h1>{{mode?"课堂 点歌 大转盘":"幸运 点名 找到你"}}</h1>
     <!--  -->
     <div class="show">
 
